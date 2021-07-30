@@ -11,4 +11,4 @@
 
 **Thoughts:** This wasn't too bad as the concepts are basically the same as Python and it was just a case of learning the syntax.
 
-**Link to work:** https://github.com/IntoSpaceAgain/100-days-of-code/tree/master/Day1/BandNameGenerator
+**Link to work:** https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day1/BandNameGenerator/BandNameGenerator.cpp
