@@ -1,0 +1,6 @@
+﻿  BandNameGenerator.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BandNameGenerator.vcxproj -> D:\C++\100DaysOfCode\Day1\BandNameGenerator\Release\BandNameGenerator.exe
