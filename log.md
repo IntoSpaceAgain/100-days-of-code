@@ -12,3 +12,18 @@
 **Thoughts:** This wasn't too bad as the concepts are basically the same as Python and it was just a case of learning the syntax.
 
 **Link to work:** https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day1/BandNameGenerator/BandNameGenerator.cpp
+
+### Day 2: July 31, 2021
+
+**Today's Progress**:
+* Data types
+* Type conversion
+* Mathematical operations
+* Rounding numbers
+* Setting precision for std::cout and std::wcout
+* Setting environment up to print UTF-8 characters to the Windows console (purely to print '£' character).
+
+**Thoughts:** Today took some googling to get the two projects completed but otherwise was fairly straight forward.
+
+**Link to work:** https://github.com/IntoSpaceAgain/100-days-of-code/tree/master/Day2/BMI_Calculator
+                  https://github.com/IntoSpaceAgain/100-days-of-code/tree/master/Day2/TipCalculator
