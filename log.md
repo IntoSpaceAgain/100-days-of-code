@@ -25,5 +25,6 @@
 
 **Thoughts:** Today took some googling to get the two projects completed but otherwise was fairly straight forward.
 
-**Link to work:** https://github.com/IntoSpaceAgain/100-days-of-code/tree/master/Day2/BMI_Calculator
-                  https://github.com/IntoSpaceAgain/100-days-of-code/tree/master/Day2/TipCalculator
+**Link to work:** 
+* https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day2/BMI_Calculator/BMI_Calculator.cpp
+* https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day2/TipCalculator/TipCalculator.cpp
