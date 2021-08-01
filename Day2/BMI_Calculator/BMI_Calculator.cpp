@@ -18,7 +18,33 @@ int main()
 	std::cin >> height;
 
 	int bmi{ int(round(weight / std::pow(height, 2))) };
-	std::cout << "Your BMI is " << bmi << std::endl;
+
+	// Determine BMI status
+
+	std::string bmi_status{};
+
+	if (bmi < 18.5)
+	{
+		bmi_status = " underweight.";
+	}
+	else if (bmi >= 18.5 && bmi < 25)
+	{
+		bmi_status = " a normal weight.";
+	}
+	else if (bmi >= 25 && bmi < 30)
+	{
+		bmi_status = " slightly overweight.";
+	}
+	else if (bmi >= 30 && bmi < 35)
+	{
+		bmi_status = " obese.";
+	}
+	else if (bmi >= 35)
+	{
+		bmi_status = " clinically obese.";
+	}
+
+	std::cout << "Your BMI is " << bmi << ". You are" << bmi_status << std::endl;
 
 	return 0;
 }
