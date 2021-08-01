@@ -39,6 +39,7 @@
 * Modulo
 * Nested If
 * Updated BMI Calculator from yesterday with If-else-if statements to determine BMI status
+* Leap Year Calculator
 
 **Thoughts:** 
 
