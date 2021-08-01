@@ -2,7 +2,7 @@
 
 ### Day 1: July 30, 2021
 
-**Today's Progress**:
+**Today's Progress:**
 * Outputting to the console
 * Declaring variables
 * Naming conventions
@@ -15,7 +15,7 @@
 
 ### Day 2: July 31, 2021
 
-**Today's Progress**:
+**Today's Progress:**
 * Data types
 * Type conversion
 * Mathematical operations
@@ -28,3 +28,17 @@
 **Link to work:** 
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day2/BMI_Calculator/BMI_Calculator.cpp
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day2/TipCalculator/TipCalculator.cpp
+
+### Day 3: August 1, 2021
+
+**Today's Progress:**
+* If  - else statements
+* Else If
+* Comparing Floats
+* Conditional operators
+* Modulo
+* Nested If
+
+**Thoughts:** 
+
+**Link to work:**
