@@ -38,8 +38,11 @@
 * Conditional operators
 * Modulo
 * Nested If
+* Logical operators
 * Updated BMI Calculator from yesterday with If-else-if statements to determine BMI status
 * Leap Year Calculator
+* Using raw string literals to draw ascii art
+* Treasure Island
 
 **Thoughts:** 
 
