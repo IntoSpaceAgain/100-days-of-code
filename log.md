@@ -50,3 +50,16 @@
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day2/BMI_Calculator/BMI_Calculator.cpp
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day3/LeapYearCalculator/LeapYearCalculator.cpp
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day3/TreasureIsland/TreasureIsland.cpp
+
+### Day 4: August 2, 2021
+
+**Today's Progress:**
+* Generate random numbers
+* Arrays
+* Randomly select an element from an array
+* Rock Paper Scissors
+
+
+**Thoughts:** This took me a lot longer to get my head around than I expected. Although arrays in c++ are similar to lists in python, there are some things that appear more complex.
+
+**Link to work:**
