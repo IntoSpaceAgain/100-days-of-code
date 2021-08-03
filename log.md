@@ -64,3 +64,19 @@
 
 **Link to work:**
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day%204/RockPaperScissors/RockPaperScissors.cpp
+
+### Day 5: August 3, 2021
+
+**Today's Progress:**
+* While Loops
+* Do While Loops
+* For Loops
+* Range-based for loop
+* FizzBuzz
+* Password Generator
+
+
+**Thoughts:** Today was quite fun, especially solving how to randomly sort the final password in the Password Generator program.
+
+**Link to work:**
+* 
