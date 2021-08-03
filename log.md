@@ -79,4 +79,5 @@
 **Thoughts:** Today was quite fun, especially solving how to randomly sort the final password in the Password Generator program.
 
 **Link to work:**
-* 
+* https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day5/FizzBuzz/FizzBuzz.cpp
+* https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day5/PasswordGenerator/PasswordGenerator.cpp
