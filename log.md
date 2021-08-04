@@ -81,3 +81,17 @@
 **Link to work:**
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day5/FizzBuzz/FizzBuzz.cpp
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day5/PasswordGenerator/PasswordGenerator.cpp
+
+### Day 6: August 4, 2021
+
+**Today's Progress:**
+* Switch statements
+* Defining functions
+* Return values
+* Function parameters
+* Headers and Prototypes
+
+
+**Thoughts:** This was another fairly straight forward day. Conceptually, functions are fairly similar in C++ to what they are in Python. The final project turned out to be reasonably straightforward to program.
+
+**Link to work:**

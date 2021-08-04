@@ -1,0 +1,3 @@
+﻿  PaintAreaCalculator.cpp
+D:\C++\100-days-of-code\Day6\PaintAreaCalculator\PaintAreaCalculator.cpp(31,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  PaintAreaCalculator.vcxproj -> D:\C++\100-days-of-code\Day6\PaintAreaCalculator\Debug\PaintAreaCalculator.exe
