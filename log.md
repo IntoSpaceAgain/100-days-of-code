@@ -96,3 +96,13 @@
 
 **Link to work:**
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day6/PaintAreaCalculator/PaintAreaCalculator.cpp
+
+### Day 7: August 5, 2021
+**Today's progress:**
+* No additional learning, but coding Hangman to reinforce the things I've already learned to this point
+
+
+**Thoughts:** While I didn't learn anything new today, coding the Hangman program was a good exercise as it helped reinforce the things I've learned in the first week. I'm also happy that I was able to refactor the code to have separate files for each function along with a header file of forward definitions.
+
+**Link to work:**
+* 
