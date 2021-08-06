@@ -106,3 +106,12 @@
 
 **Link to work:**
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day7/Hangman/Hangman.cpp
+
+### Day 8: August 6, 2021
+**Today's progress:**
+* Nothing new, more reinforcement.
+
+**Thoughts:** I had absolutely zero motivation today, so decided to create a simple Prime Number Checker program, as something I could concentrate on.
+
+**Link to Work:**
+* https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day8/PrimeNumberChecker/PrimeNumberChecker.cpp
