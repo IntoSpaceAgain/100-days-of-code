@@ -115,3 +115,15 @@
 
 **Link to Work:**
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day8/PrimeNumberChecker/PrimeNumberChecker.cpp
+
+### Day 9: August 7, 2021
+**Today's progress:**
+* Classes
+* Data Members
+* C++ Constructors and Destructors
+* C++ Getters and Setters
+* C++ String Streams
+
+**Thoughts:** While I did manage to learn the little bit about classes above, I've had too many interruptions from family to have time to get to the projects I had planned to do.
+
+**Link to work:** N/A
