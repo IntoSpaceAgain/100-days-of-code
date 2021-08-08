@@ -127,3 +127,12 @@
 **Thoughts:** While I did manage to learn the little bit about classes above, I've had too many interruptions from family to have time to get to the projects I had planned to do.
 
 **Link to work:** N/A
+
+### Day 10: August 8, 2021
+**Today's progress:**
+* Completed the Caesar Cypher project that I intended to do yesterday
+
+**Thoughts:** This was fun, although I had a fair amount of searching to solve some of the challenges I had on this one.
+
+**Link to work:**
+*
