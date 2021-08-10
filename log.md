@@ -143,5 +143,9 @@
 * The 'this' keyword
 * Constructor initialisation lists
 
-**Link to Work:**
-* 
+**Link to Work:** N/A
+
+### Day 12: August 10, 2021
+**Today's progress:**
+* C++ std::map<type, type> name { {key, value} };
+* Getting the highest value from a std::map
