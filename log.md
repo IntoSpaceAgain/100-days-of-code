@@ -149,3 +149,19 @@
 **Today's progress:**
 * C++ std::map<type, type> name { {key, value} };
 * Getting the highest value from a std::map
+
+**Link to work:**
+* https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day12/BlindAuction/BlindAuction.cpp
+
+### Day 13: August 11, 2021
+**Today's progress:**
+* Pointers
+* Arithmetic
+* Pointers & Arrays
+* Pointer Arithmetic
+* Create a map of functions
+* Call the functions from the map
+
+**Thoughts:** I enjoyed today, as I was learning concepts I'd not really encountered before, even with Python programming.
+
+**Link to work:**
