@@ -166,3 +166,15 @@
 
 **Link to work:**
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day13/Calculator/Calculator.cpp
+
+### Day 14: August 12, 2021
+**Today's progress:**
+* Char arrays
+* Reversing a string
+* References
+* Const Keyword
+
+**Thoughts:** Today was interesting. I'm not sure I fully understand the use cases for pointers and references just yet, but hopefully I'll pick them up as I continue.
+
+**Link to work:**
+* 
