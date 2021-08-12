@@ -177,4 +177,4 @@
 **Thoughts:** Today was interesting. I'm not sure I fully understand the use cases for pointers and references just yet, but hopefully I'll pick them up as I continue.
 
 **Link to work:**
-* 
+* https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day14/Blackjack/Blackjack.cpp
