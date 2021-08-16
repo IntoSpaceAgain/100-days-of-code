@@ -178,3 +178,18 @@
 
 **Link to work:**
 * https://github.com/IntoSpaceAgain/100-days-of-code/blob/master/Day14/Blackjack/Blackjack.cpp
+
+### Day 15: August 16, 2021
+**Today's progress:**
+* Copy constructors
+* The ‘new’ operator
+* Returning objects from functions
+* Allocating memory
+* Arrays and Functions
+* Namespaces
+
+
+**Thoughts:** After not having time for the last couple of days, it was good to be able to sit down and code today.
+
+**Link to work:**
+* 
